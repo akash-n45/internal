@@ -1,1 +1,1 @@
-"hello github" 
+"conflict and edit in feature branch"
